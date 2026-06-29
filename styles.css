@@ -3,7 +3,7 @@
  * Recreated from the Claude Design prototype (Landing Page.dc.html).
  * Design-time tweaks are baked to their chosen defaults:
  *   accent = #8cb63c (olive-green), corners = soft (16px),
- *   fonts = Frank Ruhl Libre (display) + Assistant (body), motif on.
+ *   fonts = Rubik (headings + body), motif on.
  * ------------------------------------------------------------------ */
 
 :root {
@@ -18,8 +18,8 @@
   --line: #e9e1d1;
   --accent: #8cb63c;
   --radius: 16px;
-  --font-display: 'Frank Ruhl Libre';
-  --font-body: 'Assistant';
+  --font-display: 'Rubik';
+  --font-body: 'Rubik';
 }
 
 * {
